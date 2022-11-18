@@ -1,3 +1,4 @@
+[![DevCard](https://github.com/voeunthavin/voeunthavin/actions/workflows/main.yml/badge.svg)](https://github.com/voeunthavin/voeunthavin/actions/workflows/main.yml)
 ### Hi there 👋
 
 <!--
@@ -22,3 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music & Sport
+
+<a href="https://app.daily.dev/thavin_zach"><img src="https://api.daily.dev/devcards/76c2c0d9267a47749e8897e2f749162e.png?r=6ke" width="400" alt="Thavin Voeun's Dev Card"/></a>
