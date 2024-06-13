@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music & Sport
-
-- [![roadmap.sh](https://roadmap.sh/card/wide/6475996fc4ec366ad5b2a8de?variant=dark&roadmaps=backend%2Cfrontend%2Ctypescript%2Cfull-stack)](https://roadmap.sh)
-
-<a href="https://app.daily.dev/thavin_zach"><img src="https://api.daily.dev/devcards/76c2c0d9267a47749e8897e2f749162e.png?r=6ke" width="400" alt="Thavin Voeun's Dev Card"/></a>
+- 🃏 Cards:
+  - <a href="https://app.daily.dev/thavin_zach"><img src="https://api.daily.dev/devcards/76c2c0d9267a47749e8897e2f749162e.png?r=6ke" width="400" alt="Thavin Voeun's Dev Card"/></a>
+  - <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6475996fc4ec366ad5b2a8de?variant=dark&roadmaps=backend%2Cfrontend%2Ctypescript%2Cfull-stack" alt="roadmap.sh"/></a>
