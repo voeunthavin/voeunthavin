@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on React Native Mobile Application.
+- 🔭 I’m currently working on Web Application.
 - 🌱 I’m currently learning Web Architecture & Design & Back-end techstack: Nodejs, Nestjs, MongoDB.
 - 👯 I’m looking to collaborate on opensource projects.
 - 🤔 I’m looking for help with cloud architecture.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/voeun-thavin/)
 - ⚡ Fun fact: Music & Sport
 - 🃏 Cards:
   - <a href="https://app.daily.dev/thavin_zach"><img src="https://api.daily.dev/devcards/76c2c0d9267a47749e8897e2f749162e.png?r=6ke" width="400" alt="Thavin Voeun's Dev Card"/></a>
