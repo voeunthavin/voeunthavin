@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Web Application.
-- 🌱 I’m currently learning Web Architecture & Design & Back-end techstack: Nodejs, Nestjs, MongoDB.
+- 🔭 I’m currently working on .net backend.
+- 🌱 I’m currently learning System Architecture & Design & Back-end techstack: .net.
 - 👯 I’m looking to collaborate on opensource projects.
 - 🤔 I’m looking for help with cloud architecture.
 - 💬 Ask me about ...
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Music & Sport
 - 🃏 Cards:
   - <a href="https://app.daily.dev/thavin_zach"><img src="https://api.daily.dev/devcards/76c2c0d9267a47749e8897e2f749162e.png?r=6ke" width="400" alt="Thavin Voeun's Dev Card"/></a>
-  - <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6475996fc4ec366ad5b2a8de?variant=dark&roadmaps=backend%2Cfrontend%2Ctypescript%2Cfull-stack" alt="roadmap.sh"/></a>
+  - <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6475996fc4ec366ad5b2a8de?variant=dark&roadmaps=%2Caspnet-core%2Csoftware-architect%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
